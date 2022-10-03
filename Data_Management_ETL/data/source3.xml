@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <person>
+      <name>Salem</name>
+      <height>1.90</height>
+      <weight>198.17</weight>
+   </person>
+   <person>
+      <name>Turki</name>
+      <height>1.68</height>
+      <weight>175.01</weight>
+   </person>
+   <person>
+      <name>Kholod</name>
+      <height>1.53</height>
+      <weight>127.45</weight>
+   </person>
+   <person>
+      <name>Hazem</name>
+      <height>1.78</height>
+      <weight>134.24</weight>
+   </person>
+</data>
