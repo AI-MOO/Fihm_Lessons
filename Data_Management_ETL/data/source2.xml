@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <person>
+      <name>Abeer</name>
+      <height>1.66</height>
+      <weight>141.37</weight>
+   </person>
+   <person>
+      <name>Bassem</name>
+      <height>1.70</height>
+      <weight>130.67</weight>
+   </person>
+   <person>
+      <name>Mossab</name>
+      <height>1.79</height>
+      <weight>177.45</weight>
+   </person>
+   <person>
+      <name>Noha</name>
+      <height>1.62</height>
+      <weight>134.08</weight>
+   </person>
+</data>

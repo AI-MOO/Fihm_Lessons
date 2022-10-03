@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <person>
+      <name>Fahad</name>
+      <height>1.72</height>
+      <weight>172.37</weight>
+   </person>
+   <person>
+      <name>Yaqoub</name>
+      <height>1.68</height>
+      <weight>150.67</weight>
+   </person>
+   <person>
+      <name>Shahad</name>
+      <height>1.58</height>
+      <weight>133.45</weight>
+   </person>
+   <person>
+      <name>Maha</name>
+      <height>1.55</height>
+      <weight>144.14</weight>
+   </person>
+</data>
