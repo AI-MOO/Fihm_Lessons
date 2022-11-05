@@ -19,8 +19,13 @@
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+• [Data_Manipulation_by_Pandas](https://github.com/AI-MOO/Fihm_Lessons/tree/master/Data_Manipulation_by_Pandas)
+
 • [Data_Skeweness](https://github.com/AI-MOO/Fihm_Lessons/tree/master/Data_Skeweness) 
 
 • [Data_Management_ETL](https://github.com/AI-MOO/Fihm_Lessons/tree/master/Data_Management_ETL)
 
-• [Data_Manipulation_by_Pandas](https://github.com/AI-MOO/Fihm_Lessons/tree/master/Data_Manipulation_by_Pandas)
+• [Data_Management_SQLite](https://github.com/KAFSALAH/Fihm_Lessons/tree/master/Data_Management_SQLite)
+
+
+
