@@ -7,11 +7,13 @@
 
 • [Language Detection_ML](https://github.com/AI-MOO/Fihm_Lessons/tree/master/Language%20Detection_ML)
 
+• [Fihm Series for ML | Part 1 - Regression](https://github.com/KAFSALAH/Fihm_Lessons/tree/master/ML_Series1_Regression)
+
 ### Data Analytics:
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-• [Uper_Trips_Analysis_EDA](https://github.com/AI-MOO/Fihm_Lessons/tree/master/Uper_Trips_Analysis_EDA)
+• [Uber_Trips_Analysis_EDA](https://github.com/AI-MOO/Fihm_Lessons/tree/master/Uper_Trips_Analysis_EDA)
 
 • [EDA_Real_Estate](https://github.com/KAFSALAH/Fihm_Lessons/tree/master/EDA_Real_Estate)
 
