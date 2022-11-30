@@ -1,3 +1,11 @@
+# [Managing Data with SQLite Database](https://fihm.ai/tutorials/managing-data-with-sqlite-database-practical-implementation-on-forest-data/)
+
+
+Tutorial in Arabic Link:
+
+https://fihm.ai/tutorials/managing-data-with-sqlite-database-practical-implementation-on-forest-data/
+
+
 Data Sources: 
 
 `تم أخذ جدولي بيانات من موقع البيانات السعودية المفتوحة (قسم الزراعة والأسماك) `
