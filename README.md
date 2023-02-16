@@ -11,6 +11,11 @@
 
 • [Fihm Series for ML | Part 2 - Classification](https://github.com/KAFSALAH/Fihm_Lessons/tree/master/ML_Series2_Classification)
 
+• [Fihm Series for ML | Part 3 - Feature Importance](https://github.com/KAFSALAH/Fihm_Lessons/tree/master/ML_Series3_Feature_Importance)
+
+• [Fihm Series for ML | Part 4 - Hyperparameters Tuning](https://github.com/KAFSALAH/Fihm_Lessons/tree/master/ML_Series4_Hyperparameters_Tuning)
+
+
 ### Data Analytics:
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
