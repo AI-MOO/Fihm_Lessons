@@ -15,6 +15,9 @@
 
 • [Fihm Series for ML | Part 4 - Hyperparameters Tuning](https://github.com/KAFSALAH/Fihm_Lessons/tree/master/ML_Series4_Hyperparameters_Tuning)
 
+• [Fihm Series for ML | Part 5 - Dimensionality Reduction](https://github.com/KAFSALAH/Fihm_Lessons/tree/master/ML_Series5_Dimensionality_Reduction)
+
+
 
 ### Data Analytics:
 
